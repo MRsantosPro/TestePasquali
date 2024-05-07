@@ -1,0 +1,237 @@
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\PasqualiAPI.exe
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\PasqualiAPI.deps.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\PasqualiAPI.runtimeconfig.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\PasqualiAPI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\PasqualiAPI.pdb
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\EFCore.NamingConventions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.csproj.AssemblyReference.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.AssemblyInfoInputs.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.AssemblyInfo.cs
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\staticwebassets\msbuild.PasqualiAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.PasqualiAPI.props
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PasqualiAPI.props
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PasqualiAPI.props
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\scopedcss\bundle\PasqualiAPI.styles.css
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\Pasquali.160C88D2.Up2Date
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\refint\PasqualiAPI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.pdb
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\PasqualiAPI.genruntimeconfig.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\obj\Debug\net7.0\ref\PasqualiAPI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\vueCRUDSampleAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\appsettings.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.exe
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.deps.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.runtimeconfig.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.pdb
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\EFCore.NamingConventions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.csproj.AssemblyReference.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.AssemblyInfoInputs.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.AssemblyInfo.cs
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\staticwebassets\msbuild.PasqualiAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\staticwebassets\msbuild.build.PasqualiAPI.props
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PasqualiAPI.props
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PasqualiAPI.props
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\scopedcss\bundle\PasqualiAPI.styles.css
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\Pasquali.160C88D2.Up2Date
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\refint\PasqualiAPI.dll
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.pdb
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.genruntimeconfig.cache
+C:\Users\mrodr\Downloads\vue3Dotnet7CRUD-main\PasqualiApi\obj\Debug\net7.0\ref\PasqualiAPI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\appsettings.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.exe
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.deps.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.runtimeconfig.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\PasqualiAPI.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\EFCore.NamingConventions.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.csproj.AssemblyReference.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.AssemblyInfoInputs.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.AssemblyInfo.cs
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\staticwebassets\msbuild.PasqualiAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\staticwebassets\msbuild.build.PasqualiAPI.props
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PasqualiAPI.props
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PasqualiAPI.props
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\scopedcss\bundle\PasqualiAPI.styles.css
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\Pasquali.160C88D2.Up2Date
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\refint\PasqualiAPI.dll
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.pdb
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\PasqualiAPI.genruntimeconfig.cache
+C:\Users\mrodr\OneDrive\Área de Trabalho\TestePasquali\PasqualiApi\obj\Debug\net7.0\ref\PasqualiAPI.dll
